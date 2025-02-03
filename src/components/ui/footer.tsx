@@ -53,7 +53,9 @@ const Footer = () => {
       </div>
 
       <div className='mt-8 border-t border-zinc-800 pt-6 text-center'>
-        <p className='text-white/50 text-sm'>{content.footer.copyright}</p>
+        <p className='text-white/50 text-sm'>
+          &copy; {new Date().getFullYear()} {content.footer.copyright}
+        </p>
       </div>
     </footer>
   );
