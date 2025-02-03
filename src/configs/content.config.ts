@@ -90,6 +90,6 @@ export const content = {
       { name: 'GitHub', link: 'https://github.com/alexkuchar' },
       { name: 'LinkedIn', link: 'https://www.linkedin.com/in/alexkuchar/' },
     ],
-    copyright: '© 2024 Alex Kuchar. All rights reserved.',
+    copyright: 'Alex Kuchar. All rights reserved.',
   },
 };
