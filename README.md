@@ -24,8 +24,7 @@ Modern portfolio website built with Next.js, React, and TailwindCSS showcasing m
 
 ```bash
 # Clone the repository
-git clone [your-repo-url]
-
+git clone https://github.com/alexkuchar/alexkuchar.com
 # Install dependencies
 npm install
 
